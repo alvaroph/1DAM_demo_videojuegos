@@ -19,7 +19,7 @@ error_reporting(E_ALL);
     <main class="container-fluid">
         <nav class="navbar bg-body-tertiary">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="index.php">
                 <img src="https://www.institutpedralbes.cat/wp-content/uploads/2021/05/logo.jpg" alt="Logo"  height="24" class="d-inline-block align-text-top">
                 Aplicació videojocs
                 </a>
